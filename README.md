@@ -1,6 +1,6 @@
 # History 介绍
 
-History 是一个 macOS 菜单栏工具，用 SwiftUI 编写，用来查看、搜索并打开最近使用过的文件、应用和文件夹。
+History 是一个 macOS 菜单栏工具，用 SwiftUI 编写，用来查看、搜索并打开最近使用过的文件夹。
 
 ![Finder 中的最近使用列表](screenshot/finder%20history%20list.png)
 
